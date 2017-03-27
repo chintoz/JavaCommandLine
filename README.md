@@ -12,5 +12,5 @@ TASKS TO RUN IT
 
 There is two folders. First one, called src, has the source code of the application. The other one, called bin, has a jar executable file with the application. 
 
-To run the application, you only need Java JDK 8 and run the jar file with "java -jar GithubUsers.jar <userName>". For example: 
+To run the application, you only need Java JDK 8 and run the jar file with "java -jar GithubUsers.jar userName". For example: 
  java -jar GithubUsers.jar jjmena80
