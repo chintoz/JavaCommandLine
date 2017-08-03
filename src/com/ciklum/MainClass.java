@@ -18,7 +18,7 @@ import javax.net.ssl.HttpsURLConnection;
 /**
  * MainClass to calculate GitHub User's favourite programming language
  * 
- * @author Jacinto J. Mena Lomeña
+ * @author Jacinto J. Mena Lomena
  *
  */
 public class MainClass {
